@@ -19,9 +19,9 @@ Quantity Sold: The number of units sold for a given transaction.
   2. for data Analysis
   3. for data summarisation
      
-- SQL - Structured Query Language for querying of data  [Download Here](https://wwww.microsoft.com) 
-- Power BI for data visualisation  [Download Here](https://wwww.microsoft.com) 
-- Github for portfolio building
+- SQL - Structured Query Language for querying of data [Download Here](https://wwww.microsoft.com) 
+- Power BI for data visualisation [Download Here](https://wwww.microsoft.com) 
+- Github for portfolio building [Click Here to Signup](https://wwww.github.com)
 
 ### Data Cleaning and Preparation
 In the initial phase of the Data Cleaning and Preparations, I perform the following actions:
