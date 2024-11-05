@@ -83,35 +83,45 @@ FROM [dbo].[LITA Capstone sales Dataset]
 GROUP BY REGION;
 ```
 
+
 ![SOME CAPSTONE SQL QUERIES](https://github.com/user-attachments/assets/229de429-0e18-4c5a-96c7-e619745d9d44)
 
 
 
 ### Data Visualisation and Inference
 
+
 #### Sales Dataset
 - I first used the excel pivot tool to give me summarisations of the sales by region, month and product.
+  
 ![excel capstone sales pivot](https://github.com/user-attachments/assets/32c4e704-b06f-4fde-816e-9ba6d9b1e348)
 
 - Then the Power Bi helped with better visualisations and an interactive dashboard, using slicers.
+  
 ![CAPSTONE POWERBI SALES](https://github.com/user-attachments/assets/ac3231a8-bf41-438d-a774-74b54644deea)
-
-#### Inferences
+#### - Inferences
 - Hats had the highest sales in the last two years, while Jackets recorded the lowest sales.
 - The highest sales in the two-year period were recorded in the southern region, while the lowest sales were recorded in the western region.
 - Sales of Socks and Jackets dropped significantly in this current year. Also, the overall sales in the Eastern region suffered the most drop.
 - However, the sales of shoes and the sales in the northern region gained a massive ground.
 
+
 #### Customer Dataset
 - First I used the excel pivot tool to give me summarisations of the sales by region, type of product, cancellations, etc.
+  
 ![excel capstone customer pivot](https://github.com/user-attachments/assets/c74fdf99-8191-4dc2-865c-a477c64bc4ba)
 
 - Then the Power Bi helped with better visualisations and an interactive dashboard, using slicers.
+  
 ![CAPSTONE POWERBI CUSTOMERS](https://github.com/user-attachments/assets/210bf051-d014-4ad8-824b-0e1b1639a72c)
+#### - Inferences
+- The Eastern region recorded more than double the current subscription rates of that recorded by any of the other regions, yet the South recorded the highest revenues despite having the same number of cancelled subscriptions as the West and the North.
+- The subscription type records differ ffrom the above: The Basic Subscription currently has more than three times the current subscription numbers of the other two types. It also records the highest revenue.
 
-#### Inferences
-- 
 
+
+### Conclusion
+The average revenue data does not indicate overall growth. There seem to be some unstable performances across regions, with the East showing the most instability of all. The company should focus on improving its momentum while exploring opportunities for greater improvement in the region that is currently most underperforming.
 
 
 
