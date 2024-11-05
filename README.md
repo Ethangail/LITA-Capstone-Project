@@ -32,7 +32,7 @@ The primary source of data here is the Capstone dataset which include the below,
   2. for data Analysis
   3. for data summarisation
      
-- SQL - Structured Query Language for querying of data to extract insights, performing aggregations and grouping, integrating with Power BI for data visualization, [Download Here](https://wwww.microsoft.com) 
+- SQL - Structured Query Language for querying of data to extract insights, performing aggregations and grouping, integrating with Power BI for data visualization [Download Here](https://wwww.microsoft.com) 
 - Power BI for data visualisation [Download Here](https://wwww.microsoft.com) 
 - Github for portfolio building [Click Here to Signup](https://wwww.github.com)
 
