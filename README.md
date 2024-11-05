@@ -43,3 +43,19 @@ Here are some of the codes/queries that i used.
 SELECT * FROM TABLE1
 WHERE CONDITION = TRUE
 ```
+
+```SQL
+ PRODUCT,
+SUM(QUANTITY) AS TOTALSALE
+FROM [dbo].[LITA Capstone sales Dataset]
+GROUP BY PRODUCT;
+```
+
+```SQL
+REGION,
+COUNT(*) AS NUMBEROFSALESTRANSACTIONS
+FROM [dbo].[LITA Capstone sales Dataset]
+GROUP BY REGION;
+```
+
+### Data Visualisation
