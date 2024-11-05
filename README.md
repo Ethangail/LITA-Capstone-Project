@@ -14,11 +14,32 @@ Revenue: The total monetary value generated from the sale.
 Quantity Sold: The number of units sold for a given transaction.
 
 ### Tools Used
-- Microsoft Excel [Download Here] (https://wwww.microsoft.com) 
+- Microsoft Excel [Download Here](https://wwww.microsoft.com) 
   1. for Data Cleaning
   2. for data Analysis
   3. for data summarisation
      
-- SQL - Structured Query Language for querying of data
-- Power BI for data visualisation.
+- SQL - Structured Query Language for querying of data  [Download Here](https://wwww.microsoft.com) 
+- Power BI for data visualisation  [Download Here](https://wwww.microsoft.com) 
 - Github for portfolio building
+
+### Data Cleaning and Preparation
+In the initial phase of the Data Cleaning and Preparations, I perform the following actions:
+1. Data loading and inspection,
+2. Handling missing variables
+3. Data cleaning and formatting
+
+### Exploratory Data Analysis
+EDA involved the exploring of the data to answer some questions about the data such as:
+- Sales trends by product, region and month.
+- Average sales by product and region.
+- Total revenue by product and region.
+- Most popular products.
+  
+### Data Analysis
+Here are some of the codes/queries that i used.
+
+```SQL
+SELECT * FROM TABLE1
+WHERE CONDITION = TRUE
+```
