@@ -48,7 +48,7 @@ EDA involved the exploring of the data to answer some questions about the data s
 - Most popular products.
   
 ### Data Analysis
-Here are some of the codes/queries that i used.
+- Here are some of the codes/queries that i used.
 
 ```SQL
 SELECT * FROM TABLE1
@@ -69,6 +69,11 @@ FROM [dbo].[LITA Capstone sales Dataset]
 GROUP BY REGION;
 ```
 
+- I created a new excel column to help with my deductions. 
+  ![Excel  capstone customer new column](https://github.com/user-attachments/assets/026f680e-1914-4434-8c19-afba0ff07c01)
+
 ### Data Visualisation and Inference
+
+
 
 
