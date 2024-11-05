@@ -32,7 +32,7 @@ The primary source of data here is the Capstone dataset which include the below,
   2. for data Analysis
   3. for data summarisation
      
-- SQL - Structured Query Language for querying of data [Download Here](https://wwww.microsoft.com) 
+- SQL - Structured Query Language for querying of data to extract insights, performing aggregations and grouping, integrating with Power BI for data visualization, [Download Here](https://wwww.microsoft.com) 
 - Power BI for data visualisation [Download Here](https://wwww.microsoft.com) 
 - Github for portfolio building [Click Here to Signup](https://wwww.github.com)
 
@@ -62,7 +62,7 @@ EDA involved the exploring of the data to answer some questions about the data s
 
     ![excel capstone sales new column](https://github.com/user-attachments/assets/901dd0de-5658-4216-b6dc-1ec9901d0c75)
 
-- Then i employed the SQL for further deductions like the highest selling product. Here are some of the codes/queries that i used.
+- Then i employed the SQL for further deductions like the highest selling product, among others. Here are a few of the codes/queries that i used.
 
 ```SQL
 SELECT * FROM TABLE1
@@ -88,8 +88,29 @@ GROUP BY REGION;
 
 
 ### Data Visualisation and Inference
+
 #### Sales Dataset
-- i first used the excel pivot tool to give me a as much 
+- I first used the excel pivot tool to give me summarisations of the sales by region, month and product.
+![excel capstone sales pivot](https://github.com/user-attachments/assets/32c4e704-b06f-4fde-816e-9ba6d9b1e348)
+
+- Then the Power Bi helped with better visualisations and an interactive dashboard, using slicers.
+![CAPSTONE POWERBI SALES](https://github.com/user-attachments/assets/ac3231a8-bf41-438d-a774-74b54644deea)
+
+#### Inferences
+- Hats had the highest sales in the last two years, while Jackets recorded the lowest sales.
+- The highest sales in the two-year period were recorded in the southern region, while the lowest sales were recorded in the western region.
+- Sales of Socks and Jackets dropped significantly in this current year. Also, the overall sales in the Eastern region suffered the most drop.
+- However, the sales of shoes and the sales in the northern region gained a massive ground.
+
+#### Customer Dataset
+- First I used the excel pivot tool to give me summarisations of the sales by region, type of product, cancellations, etc.
+![excel capstone customer pivot](https://github.com/user-attachments/assets/c74fdf99-8191-4dc2-865c-a477c64bc4ba)
+
+- Then the Power Bi helped with better visualisations and an interactive dashboard, using slicers.
+![CAPSTONE POWERBI CUSTOMERS](https://github.com/user-attachments/assets/210bf051-d014-4ad8-824b-0e1b1639a72c)
+
+#### Inferences
+- 
 
 
 
